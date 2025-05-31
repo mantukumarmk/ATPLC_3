@@ -1,0 +1,23 @@
+h1{text-align:center;text-decoration:underline;font-family:times new roman; color:#129990;}
+#para1{font-style:italic;margin:20px;text-align:justify;color:white;}
+#para2{font-style:italic;margin:20px;text-align:justify;color:aquamarine;}
+#para3{font-style:italic;text-align:center;color:white;}
+#img1{
+	border:1px solid white;
+	border-radius:30%;
+	height:auto;
+	display:block;
+	margin-left:500px;
+	max-width:300px;
+	padding:10px;
+	
+}
+#img2{
+	border:2px solid yellow;
+	border-radius:50px;
+	height:auto;
+	width:500px;
+	display:block;
+	margin-left:500px;
+	padding:20px;
+}
